@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agriirrigation",
+  "private_key_id": "19ad3efc5c1a157060e1f031068285ef78e0c8c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbuRofiQ04jzr9\nqzTcSV/gW9QZe65DU6AWxwYL0Xqo7bPF8/pgftGXIc/z0pMRwVcU5Z/b2ZGkGN64\nJ/jogFngURFVULsDjonk9+oQT04vuTyEI3cvT8IPzOVDNjIVSnUCr89+ECMCWg+i\ntM3BtG0hrSCuWLPZSPrKw2LKOvyATFx5EI0aIMVkeM1DqU6/KHzOSyBn00Bg+IiK\nGVy5LTK9RdKqpIBFltcyuNLrB88xxNgoiKib7cKyG2bcl6QAOczryCKTFbluMBb7\nl06CzEMquyukX8oTM4hnjCvu67YxhJZmFG3oFOzuTSpzULp8Six7zEISvgI/CXyh\n5heRJkGJAgMBAAECggEACJPo26tPi1I4JNgOt7zbk9gx5w7HhlRY7xq09zgl2Dtz\nZbp5H1REHWjSA/xIBozsN+IhBAWx5FyeMUVKN9Vu7M1tZk3BB0oEwx4Ukq9t53oN\nTUFPMVclRdWja6TNfrxJ5iFz8cFyhHB8pMb3M2U2T3bBTF0lJEnvlIPdMvTrj5yZ\nCKKFImuGalwEuAIc8V+rrRm8+9X6yjJlVFR+irK2LjAcsw04zRJjIZr3iEcAEiqX\noLUlGgngoFKWB3oW/Eu08UtJ6a6jXAD8Eml/9AEU8F/PTkiDFebLoD8R+AdRpAoc\nW4eRkuMWY1AunrrYv+lAaHrESP8zsazlKQanwRoiwQKBgQDwFy37ugnlUADl7ala\nsJhTCfyIRRL2p554A1e5g+WK7i/os+uD188nNfT3r5cMKQIVPhAzotSM5a2pATxg\n8M5akdxXSBTKYgfw3UDTMpOHZyetEY3Zte2YFdLMaWV6KCWAG/Qtal0oOm4Ni5ai\nPt5KDvRioORCshiF4ggEJEANeQKBgQDqSGornykNawaUVaqbtNlmrObgBTzMYgg2\nxrYkw8m+bqZcHUDHxMMdTVo7EFyqTZW0oKZnJYbO0XXcd++z40ZNFE6hnxkLMyUw\niPFvmyl67i0dzrkwAqHKMVXksJIf4l+ZAIpNwNdPMZaTu831V/yjKjya+m6Q/Ewv\nClRd/kugkQKBgGhR6g0CnOIijQFa7scVDFqocC3VtZOu6VBEQ428HbTsIaz+4Ep9\nLulerH4isYL7HoiUWv3Utn4yHe7dNpr4hvEbh531F/OH/ONPf6dExo2C6N5uTjBW\nuFHoyZtAAHO/levAOayyFqAwIzmHeYAtyPBs5wsj1YqVT8p8l/cUuTAhAoGBALOK\nq1KitqNB0dj7jbOl9LVq68PiP6Whuwm/Xvbt1D3MLlGJWYu+joh2Lx/0eg9JReEW\n/G8vow/8FYbPozMIiWeomFnjwx2CJI39ZIlTL4a14H1nXyQb4EFDbb/EUTd+FCT8\n9QCBOH/IUM0Gr9/FfibMx4U9Rl51+yxRjjY6G1sBAoGAE9LyZYooRsG72fxuRYcX\nwFsMDy1VqHdwUe/NiBP6KRRL/aCHNODwmmbU8HwiZECNWBn9JKRzpW6GsIoWlQCG\nsHB0+3JidGi1GATLzTRJvBetHkKnaMnxL63sMKGQXNIiJ23txKPRklvZl3v/X+pu\n5T4sq7ejAgi3Jom0U4jRAhI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gee-backend@agriirrigation.iam.gserviceaccount.com",
+  "client_id": "102843094167044049751",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gee-backend%40agriirrigation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
